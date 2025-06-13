@@ -101,17 +101,27 @@ Copy
 Edit
 Brain_Tumor_Detection/
 ├── app.py                 # Main Flask app
+
 ├── create_db.py           # Initialize user DB
+
 ├── models/                # Saved VGG16 model
+
 ├── templates/             # HTML templates
+
 ├── static/                # CSS/JS (optional)
+
 ├── uploads/               # Uploaded images
+
 ├── users.db               # SQLite DB
+
 ├── model_training.ipynb   # Training notebook
-10. Screenshots
+
+11. Screenshots
+
 📌 Include screenshots of:
 
 Homepage
+
 
 Image upload page
 

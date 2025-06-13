@@ -20,9 +20,6 @@ To present results with accuracy and confidence score for clinical use.
 
 4. System Architecture:
 
-graphql
-Copy
-Edit
 
 
          ┌──────────────┐       ┌────────────┐

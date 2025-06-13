@@ -10,7 +10,7 @@ Medical imaging and AI have recently emerged as powerful allies in disease diagn
 
 
 
-4. Objective:
+#4. Objective:
 
 To design and train a robust CNN model for tumor classification.
 
@@ -22,7 +22,9 @@ To present results with accuracy and confidence score for clinical use.
 
 
 
-5. System Architecture:
+
+
+#5. System Architecture:
 
 
 

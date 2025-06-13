@@ -104,7 +104,9 @@ Classification Report
 
 Confusion Matrix
 
-ROC Curve
+ROC Curve.
+
+
 
 
 #9. Web Application Features:
@@ -117,7 +119,9 @@ Live Tumor Detection with Confidence Score
 
 User-friendly Result Visualization
 
-Secure File Storage in uploads/ Folder
+Secure File Storage in uploads/ Folder.
+
+
 
 
 #10. Folder Structure:
@@ -142,7 +146,7 @@ Brain_Tumor_Detection/
 ├── model_training.ipynb                    # Training notebook
 
 
-
+.
 
 11. Screenshots:
 

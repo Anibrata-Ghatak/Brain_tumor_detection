@@ -19,9 +19,11 @@ To present results with accuracy and confidence score for clinical use.
 graphql
 Copy
 Edit
+
+
          ┌──────────────┐       ┌────────────┐
-         │   MRI Image  │       │  Login/Signup │
-         └──────┬───────┘       └──────┬───────┘
+         │   MRI Image  │       │Login/Signup│
+         └──────┬───────┘       └─────┬─────┘
                 │                     │
                 ▼                     ▼
          ┌────────────────────────────────┐
@@ -35,7 +37,9 @@ Edit
          ┌───────────────────────────────┐
          │  Output: Tumor Type + Score   │
          └───────────────────────────────┘
-5. Technologies Used
+
+   
+6. Technologies Used
 Languages: Python, HTML, CSS
 
 Frameworks: Flask, Keras, TensorFlow
@@ -121,7 +125,7 @@ Brain_Tumor_Detection/
 📌 Include screenshots of:
 
 Homepage
-
+![image alt](https://github.com/Anibrata-Ghatak/Brain_tumor_detection/blob/main/Screenshot%202025-06-13%20161507.png)
 
 Image upload page
 

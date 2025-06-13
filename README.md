@@ -104,34 +104,40 @@ csharp
 Copy
 Edit
 Brain_Tumor_Detection/
-├── app.py                 # Main Flask app
 
-├── create_db.py           # Initialize user DB
+├── app.py                                        # Main Flask app
 
-├── models/                # Saved VGG16 model
+├── create_db.py                                 # Initialize user DB
 
-├── templates/             # HTML templates
+├── models/                                     # Saved VGG16 model
 
-├── static/                # CSS/JS (optional)
+├── templates/                                  # HTML templates
 
-├── uploads/               # Uploaded images
+├── static/                                    # CSS/JS (optional)
 
-├── users.db               # SQLite DB
+├── uploads/                                  # Uploaded images
 
-├── model_training.ipynb   # Training notebook
+├── users.db                                 # SQLite DB
+
+├── model_training.ipynb                    # Training notebook
 
 11. Screenshots
 
 📌 Include screenshots of:
 
-Homepage
+Login/signup interface:
+
 ![image alt](https://github.com/Anibrata-Ghatak/Brain_tumor_detection/blob/main/Screenshot%202025-06-13%20161507.png)
+
+![image alt](https://github.com/Anibrata-Ghatak/Brain_tumor_detection/blob/main/Screenshot%202025-06-13%20161630.png)
 
 Image upload page
 
+![image alt](https://github.com/Anibrata-Ghatak/Brain_tumor_detection/blob/main/Screenshot%202025-06-13%20161525.png)
+
 Prediction output
 
-Login/signup interface
+![image alt](https://github.com/Anibrata-Ghatak/Brain_tumor_detection/blob/main/Screenshot%202025-06-13%20161609.png)
 
 11. Conclusion
 The proposed system effectively automates the diagnosis of brain tumors with promising accuracy using deep learning. It provides a practical interface that could be extended for use by radiologists or as a patient-side tool. Future enhancements could include PDF reports, history tracking, and integration with hospital systems.
